@@ -3,8 +3,8 @@ export default function Featured() {
     <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="/images/woman-horse.jpg"
-          alt="Woman on horse in countryside"
+          src="https://cdn.poehali.dev/projects/6e0eba1e-65bb-4bf8-83e3-2cef7e89df93/files/2b26be98-a782-482d-a8a1-893910f33dad.jpg"
+          alt="Гала-ужин на курорте МРИЯ"
           className="w-full h-full object-cover"
         />
       </div>
